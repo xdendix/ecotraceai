@@ -1,0 +1,9 @@
+{
+    "welcome": "Welcome to EcoTrace AI!\nI am your offline nature scout. What would you like to identify today?",
+    "help": "Use Text ID to describe what you found, or Photo ID to send a clear photo. Include your location and any distinctive details when you can. AI identifications can be wrong, so never touch or eat an unfamiliar wild plant or animal.",
+    "photo_help": "Send a clear photo of the plant, animal, track, or other nature feature. You can add a question or your location in the caption.",
+    "text_help": "Describe what you found and where you found it. Include details such as size, color, shape, and habitat.",
+    "processing": "Observing nature... please wait.",
+    "processing_photo": "Analyzing your nature photo... please wait.",
+    "error_ai": "Sorry, my compass is broken. Please try again later."
+}
